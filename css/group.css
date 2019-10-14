@@ -1,0 +1,62 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.container{
+    height: 100vh;
+    color: #000000;
+    margin: auto;
+    text-align: center;
+    /*background: url("../images/night-lights.jpg");*/
+    /*background-color: aqua;*/
+}
+
+.enter-records input[type="text"]{
+    padding: 5px;
+    border: 1px solid;
+    border-radius: 4px;
+    margin-top: 5px;
+    /*border-radius: 25px;*/
+}
+
+input[type="radio"]{
+    padding: 5px;
+    border: 1px solid;
+    border-radius: 4px;
+    margin-top: 5px;
+    /*border-radius: 25px;*/
+}
+
+input[type=text]{
+    /*width: 100%;*/
+    padding: 12px;
+    border: 1px solid;
+    border-radius: 4px;
+    /*resize: vertical;*/
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+input[type=submit] {
+    background-color: #9999ff;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    /*float: right;*/
+}
+
+
+
+td{
+    color: #00000;
+}
+
+table {
+    /*background-color: brown;*/
+    margin: 0 auto; /* or margin: 0 auto 0 auto */
+}
