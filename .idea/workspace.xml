@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2adf8353-c195-426b-ba93-acf90f7165ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/group.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/group.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/night-lights.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pencil.jpeg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,8 +18,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -33,9 +30,10 @@
   <component name="ProjectId" id="1SATHouXpPcquQtfeb0u5ut10oP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../php_quiz-5" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
@@ -66,7 +64,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571005315463</updated>
-      <workItem from="1571005316678" duration="18723000" />
+      <workItem from="1571005316678" duration="19325000" />
+      <workItem from="1571030133550" duration="581000" />
+      <workItem from="1571327040566" duration="812000" />
+      <workItem from="1571328132446" duration="1319000" />
+      <workItem from="1571329465730" duration="1344000" />
     </task>
     <servers />
   </component>
@@ -78,7 +80,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
